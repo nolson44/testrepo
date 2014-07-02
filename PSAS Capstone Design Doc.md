@@ -37,25 +37,26 @@ capable of driving, coordinating, and running functional tests on the PSAS softw
 any auxiliary software needed to facilitate running any PSAS software. In particular, this auxiliary software will consist of the following: a port of the real-time operating system ChibiOS, software modules that substitute for hardware sensors, and a possible port for the lwIP stack.
 
 ###2.1	Constraints and Dependencies
+
 •	No Unit Testing.  
-•	The framework must be script able.  
+•	The framework must be scriptable.  
 •	The PSAS software modules will undergo functional testing only within the framework. This testing will be invoked at the end of the software build process.  
 •	The Linux operating system must be a 64-bit flavor of Debian (Ubuntu for example).  
 •	The minimum version of the gcc compiler used will be 4.8.  
 
 ###2.2	Resources
-•	PSAS subject matter experts Theo, Nathan and K. Wilson.  
-•	PSAS GitHub Repository.  
-•	Capstone GitHub Repository.  
-•	ChiobiOS forums and GitHub Repository  
-•	Capstone Team Members.  
-•	Meeting room in FAB-84.  
-•	Google hangout for team.  
-•	Team members and the computers they are using.  
-•	E-mail and phone numbers.  
-•	Requirements document  
-•	elderberry (the code generator)  
-•	telemetry viewer  
+	•	PSAS subject matter experts Theo, Nathan and K. Wilson.  
+	•	PSAS GitHub Repository.  
+	•	Capstone GitHub Repository.  
+	•	ChiobiOS forums and GitHub Repository  
+	•	Capstone Team Members.  
+	•	Meeting room in FAB-84.  
+	•	Google hangout for team.  
+	•	Team members and the computers they are using.  
+	•	E-mail and phone numbers.  
+	•	Requirements document  
+	•	elderberry (the code generator)  
+	•	telemetry viewer  
 
 	
 ##3.0. SYSTEM ARCHITECTURE
