@@ -148,11 +148,11 @@ The following drivers are needed for start. Their description is based on the da
 #####	5.1.1.1	<insert explicit function list>	
 
 
-   ####5.1.3	Name: I2C.c  
+####5.1.3	Name: I2C.c  
 				Description: I2C driver code  
 				5.1.3.1  [insert explicit function list]  
 
- ####5.1.3	I2C.c
+####5.1.3	I2C.c
 				Description: I2C driver code  
 				5.1.3.1  [insert explicit function list]
 
@@ -212,7 +212,7 @@ If a port is to be created, it will be created in gcc C.
 At the time of this writing, it is unclear if we must create our own port of the lwIP stack. It is possible that such a port exists. If we can’t find such a port, or port lwIP ourselves, we will fall back on using standard sockets.
 
 
-   ##6.0. REQUIREMENTS MATRIX
+##6.0. REQUIREMENTS MATRIX
 
 The following table matches functional requirement to design component. The usability requirements section of the requirements document guide the functionality built into the framework.
 		
@@ -240,8 +240,8 @@ ChibiOS/HAL Port
 
 The Framework
 
-   ##6.0 APPENDIX  
-	###6.1 	Configuration File
+##7.0 APPENDIX  
+###7.1 	Configuration File
 	
 The framework uses a configuration file that details which processes are to be started, initial conditions for those processes, how those processes transmit data, how those processes receive data, and any helper processes.
 
