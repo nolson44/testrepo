@@ -6,7 +6,7 @@ Date: (06/29/2014)
 
 Software Design Document
 
-#TABLE OF CONTENTS
+##TABLE OF CONTENTS
 
 1. [INTRODUCTION](https://github.com/nolson44/testrepo/blob/master/designdocument.md#10---introduction)
 2. [SYSTEM OVERVIEW](https://github.com/nolson44/testrepo/blob/master/designdocument.md#20-system-overview)
